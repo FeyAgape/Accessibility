@@ -28,6 +28,11 @@
 
 13. [Landmarks](http://matatk.agrip.org.uk/landmarks/)
 
+14. [SortSite](https://www.powermapper.com/products/sortsite/checks/accessibility-checks/) SortSite is a website testing tool available both as a desktop and web application that tests for accessibility, broken links, HTML and CSS standards, search engine optimization, and cross-browser compatibility. The accessibility checker will run against all three WCAG 2 levels (A, AA, AAA), as well as guidelines specific to Section 508.
+
+15. [Pa11y](https://pa11y.org/) Pa11y is a developer-focused accessibility testing resource. They provide several tools for setting up your own suite of accessibility testing, including a command line interface, a dashboard, and a web service for scheduling tests for multiple URLs, they are great tools for monitoring accessibility issues on an ongoing basis.
+
+16. [Tota11y](http://khan.github.io/tota11y/) Tota11y is a tool to help reduce the barrier of entry to understanding accessibility issues by visualizing them on a page. When tota11y is active, a menu will appear in the bottom left corner of your web browser. When open, you have the option to display or hide errors related to headings, contrast, confusing link text, form labels, and images. Tota11y will highlight the errors, revealing them on the page and also give details about what is causing the issue and steps you can take to correct the issue.
 
 
 More tools can be found [here](https://www.w3.org/WAI/ER/tools/) 
