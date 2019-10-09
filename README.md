@@ -36,5 +36,11 @@
 
 17. [HTML5 Accessibility](https://www.html5accessibility.com/) gives an overview of browser support for HTML5 features across browsers.
 
+18. [NVDA](https://www.nvaccess.org/about-nvda/) Screen reader for Windows.
+
+19. [NoCoffee](https://chrome.google.com/webstore/detail/nocoffee/jjeeggmbnhckmgdhmgdckeigabjfbddl) Vision simulator. 
+
+20. [Cauldron](https://pattern-library.dequelabs.com/) A “fully accessible” HTML, CSS, and Javascript front-end framework.
+
 
 More tools can be found [here](https://www.w3.org/WAI/ER/tools/) 
