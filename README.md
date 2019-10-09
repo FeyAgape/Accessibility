@@ -1,6 +1,21 @@
-# Accessibilty
+# Accessibility
 
-### Accesssibility Tools
+## Why test for accessibility?
+
+
+1. Testing for accessibility [Link](https://www.gov.uk/service-manual/helping-people-to-use-your-service/testing-for-accessibility)
+
+2. Testing with assistive technologies [Link](https://www.gov.uk/service-manual/technology/testing-with-assistive-technologies)
+
+3. Read more about accessibility in:
+
+- [A web for everyone](https://rosenfeldmedia.com/books/a-web-for-everyone/) - you’ll need to pay for this book but some sections of this book are available free online, including accessibility personas
+- [Inclusive design patterns: coding accessibility into web design](https://www.smashingmagazine.com/2016/10/inclusive-design-patterns/) - you’ll need to pay for this book
+
+4.[The pros and cons of automated tools](https://accessibility.blog.gov.uk/2017/02/24/what-we-found-when-we-tested-tools-on-the-worlds-least-accessible-webpage/)
+
+
+## Accesssibility Tools
 
 1. Use eslint plugins for static analysis eg [eslint-plugin-jsx-a11y](https://github.com/evcohen/eslint-plugin-jsx-a11y)
 
