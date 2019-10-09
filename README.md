@@ -12,7 +12,7 @@
 - [A web for everyone](https://rosenfeldmedia.com/books/a-web-for-everyone/) - you’ll need to pay for this book but some sections of this book are available free online, including accessibility personas
 - [Inclusive design patterns: coding accessibility into web design](https://www.smashingmagazine.com/2016/10/inclusive-design-patterns/) - you’ll need to pay for this book
 
-4.[ The pros and cons of automated tools](https://accessibility.blog.gov.uk/2017/02/24/what-we-found-when-we-tested-tools-on-the-worlds-least-accessible-webpage/)
+4. [The pros and cons of automated tools](https://accessibility.blog.gov.uk/2017/02/24/what-we-found-when-we-tested-tools-on-the-worlds-least-accessible-webpage/)
 
 5. [Accessibility game](https://userinyerface.com/)
 
