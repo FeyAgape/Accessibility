@@ -59,5 +59,9 @@
 
 20. [Cauldron](https://pattern-library.dequelabs.com/) A “fully accessible” HTML, CSS, and Javascript front-end framework.
 
+21. [A11y](https://color.a11y.com/) is a free color contrast analysis that will display the color contrast issues of a web page per WCAG 2.1 Guidelines.
+
+22. [Funkify](https://www.funkify.org) is a Chrome extension that helps you experience the web and interfaces through the eyes of extreme users with different abilities and disabilities.
+
 
 More tools can be found [here](https://www.w3.org/WAI/ER/tools/) 
