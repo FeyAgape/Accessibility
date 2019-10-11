@@ -64,4 +64,4 @@
 22. [Funkify](https://www.funkify.org) is a Chrome extension that helps you experience the web and interfaces through the eyes of extreme users with different abilities and disabilities.
 
 
-More tools can be found [here](https://www.w3.org/WAI/ER/tools/) and [here](https://github.com/brunopulis/awesome-a11y/blob/master/README.md)
+More tools can be found [here](https://www.w3.org/WAI/ER/tools/) and more information [here](https://github.com/brunopulis/awesome-a11y/blob/master/README.md)
