@@ -25,7 +25,7 @@
 
 3. [Axe - Web Accessibility Testing]( https://chrome.google.com/webstore/search/accessibility?hl=en)
 
-4. [Accessibility Insights for Web](https://chrome.google.com/webstore/detail/accessibility-insights-fo/pbjjkligggfmakdaogkfomddhfmpjeni?hl=en)
+4. [Accessibility Insights for Web](https://chrome.google.com/webstore/detail/accessibility-insights-fo/pbjjkligggfmakdaogkfomddhfmpjeni?hl=en) - [website](https://accessibilityinsights.io/)
 
 5. [Siteimprove Accessibility Checker](https://chrome.google.com/webstore/detail/siteimprove-accessibility/efcfolpjihicnikpmhnmphjhhpiclljc?hl=en)
 
