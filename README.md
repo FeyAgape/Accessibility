@@ -63,5 +63,6 @@
 
 22. [Funkify](https://www.funkify.org) is a Chrome extension that helps you experience the web and interfaces through the eyes of extreme users with different abilities and disabilities.
 
+23. [Accessibility Insights](https://accessibilityinsights.io/) has tools for browsers, Windows and mobile devices. Also has a guided process for going through 'WCAG 2.1 AA'
 
 More tools can be found [here](https://www.w3.org/WAI/ER/tools/) and more information [here](https://github.com/brunopulis/awesome-a11y/blob/master/README.md)
